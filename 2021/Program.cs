@@ -7,7 +7,9 @@ namespace _2021
         static void Main(string[] args)
         {
             var day = new Fourth();
-            day.Run1();
+            day.Run2();
         }
     }
 }
+
+
