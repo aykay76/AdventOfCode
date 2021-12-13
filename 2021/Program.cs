@@ -6,7 +6,7 @@ namespace _2021
     {
         static void Main(string[] args)
         {
-            Second day = new Second();
+            Third day = new Third();
             day.Run1();
         }
     }
