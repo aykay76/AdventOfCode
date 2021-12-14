@@ -6,8 +6,8 @@ namespace _2021
     {
         static void Main(string[] args)
         {
-            var day = new Sixth();
-            day.Run2();
+            var day = new Ninth();
+            day.Run1();
         }
     }
 }
